@@ -1,0 +1,16 @@
+C:\Users\iFran\Desktop\General\MoreDataTypesApp\MoreDataTypesApp\bin\Debug\net5.0\MoreDataTypesApp.exe
+C:\Users\iFran\Desktop\General\MoreDataTypesApp\MoreDataTypesApp\bin\Debug\net5.0\MoreDataTypesApp.deps.json
+C:\Users\iFran\Desktop\General\MoreDataTypesApp\MoreDataTypesApp\bin\Debug\net5.0\MoreDataTypesApp.runtimeconfig.json
+C:\Users\iFran\Desktop\General\MoreDataTypesApp\MoreDataTypesApp\bin\Debug\net5.0\MoreDataTypesApp.runtimeconfig.dev.json
+C:\Users\iFran\Desktop\General\MoreDataTypesApp\MoreDataTypesApp\bin\Debug\net5.0\MoreDataTypesApp.dll
+C:\Users\iFran\Desktop\General\MoreDataTypesApp\MoreDataTypesApp\bin\Debug\net5.0\ref\MoreDataTypesApp.dll
+C:\Users\iFran\Desktop\General\MoreDataTypesApp\MoreDataTypesApp\bin\Debug\net5.0\MoreDataTypesApp.pdb
+C:\Users\iFran\Desktop\General\MoreDataTypesApp\MoreDataTypesApp\obj\Debug\net5.0\MoreDataTypesApp.csproj.AssemblyReference.cache
+C:\Users\iFran\Desktop\General\MoreDataTypesApp\MoreDataTypesApp\obj\Debug\net5.0\MoreDataTypesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iFran\Desktop\General\MoreDataTypesApp\MoreDataTypesApp\obj\Debug\net5.0\MoreDataTypesApp.AssemblyInfoInputs.cache
+C:\Users\iFran\Desktop\General\MoreDataTypesApp\MoreDataTypesApp\obj\Debug\net5.0\MoreDataTypesApp.AssemblyInfo.cs
+C:\Users\iFran\Desktop\General\MoreDataTypesApp\MoreDataTypesApp\obj\Debug\net5.0\MoreDataTypesApp.csproj.CoreCompileInputs.cache
+C:\Users\iFran\Desktop\General\MoreDataTypesApp\MoreDataTypesApp\obj\Debug\net5.0\MoreDataTypesApp.dll
+C:\Users\iFran\Desktop\General\MoreDataTypesApp\MoreDataTypesApp\obj\Debug\net5.0\ref\MoreDataTypesApp.dll
+C:\Users\iFran\Desktop\General\MoreDataTypesApp\MoreDataTypesApp\obj\Debug\net5.0\MoreDataTypesApp.pdb
+C:\Users\iFran\Desktop\General\MoreDataTypesApp\MoreDataTypesApp\obj\Debug\net5.0\MoreDataTypesApp.genruntimeconfig.cache

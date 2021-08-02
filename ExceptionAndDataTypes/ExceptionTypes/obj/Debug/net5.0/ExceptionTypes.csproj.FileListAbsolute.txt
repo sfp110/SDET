@@ -1,0 +1,16 @@
+C:\Users\iFran\Desktop\General\ExceptionAndDataTypes\ExceptionTypes\bin\Debug\net5.0\ExceptionTypes.exe
+C:\Users\iFran\Desktop\General\ExceptionAndDataTypes\ExceptionTypes\bin\Debug\net5.0\ExceptionTypes.deps.json
+C:\Users\iFran\Desktop\General\ExceptionAndDataTypes\ExceptionTypes\bin\Debug\net5.0\ExceptionTypes.runtimeconfig.json
+C:\Users\iFran\Desktop\General\ExceptionAndDataTypes\ExceptionTypes\bin\Debug\net5.0\ExceptionTypes.runtimeconfig.dev.json
+C:\Users\iFran\Desktop\General\ExceptionAndDataTypes\ExceptionTypes\bin\Debug\net5.0\ExceptionTypes.dll
+C:\Users\iFran\Desktop\General\ExceptionAndDataTypes\ExceptionTypes\bin\Debug\net5.0\ref\ExceptionTypes.dll
+C:\Users\iFran\Desktop\General\ExceptionAndDataTypes\ExceptionTypes\bin\Debug\net5.0\ExceptionTypes.pdb
+C:\Users\iFran\Desktop\General\ExceptionAndDataTypes\ExceptionTypes\obj\Debug\net5.0\ExceptionTypes.csproj.AssemblyReference.cache
+C:\Users\iFran\Desktop\General\ExceptionAndDataTypes\ExceptionTypes\obj\Debug\net5.0\ExceptionTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iFran\Desktop\General\ExceptionAndDataTypes\ExceptionTypes\obj\Debug\net5.0\ExceptionTypes.AssemblyInfoInputs.cache
+C:\Users\iFran\Desktop\General\ExceptionAndDataTypes\ExceptionTypes\obj\Debug\net5.0\ExceptionTypes.AssemblyInfo.cs
+C:\Users\iFran\Desktop\General\ExceptionAndDataTypes\ExceptionTypes\obj\Debug\net5.0\ExceptionTypes.csproj.CoreCompileInputs.cache
+C:\Users\iFran\Desktop\General\ExceptionAndDataTypes\ExceptionTypes\obj\Debug\net5.0\ExceptionTypes.dll
+C:\Users\iFran\Desktop\General\ExceptionAndDataTypes\ExceptionTypes\obj\Debug\net5.0\ref\ExceptionTypes.dll
+C:\Users\iFran\Desktop\General\ExceptionAndDataTypes\ExceptionTypes\obj\Debug\net5.0\ExceptionTypes.pdb
+C:\Users\iFran\Desktop\General\ExceptionAndDataTypes\ExceptionTypes\obj\Debug\net5.0\ExceptionTypes.genruntimeconfig.cache

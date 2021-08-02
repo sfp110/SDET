@@ -1,0 +1,16 @@
+C:\Users\iFran\Desktop\General\MemoryModel\MemoryModel\MemoryModel\obj\Debug\net5.0\MemoryModel.csproj.AssemblyReference.cache
+C:\Users\iFran\Desktop\General\MemoryModel\MemoryModel\MemoryModel\obj\Debug\net5.0\MemoryModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iFran\Desktop\General\MemoryModel\MemoryModel\MemoryModel\obj\Debug\net5.0\MemoryModel.AssemblyInfoInputs.cache
+C:\Users\iFran\Desktop\General\MemoryModel\MemoryModel\MemoryModel\obj\Debug\net5.0\MemoryModel.AssemblyInfo.cs
+C:\Users\iFran\Desktop\General\MemoryModel\MemoryModel\MemoryModel\obj\Debug\net5.0\MemoryModel.csproj.CoreCompileInputs.cache
+C:\Users\iFran\Desktop\General\MemoryModel\MemoryModel\MemoryModel\bin\Debug\net5.0\MemoryModel.exe
+C:\Users\iFran\Desktop\General\MemoryModel\MemoryModel\MemoryModel\bin\Debug\net5.0\MemoryModel.deps.json
+C:\Users\iFran\Desktop\General\MemoryModel\MemoryModel\MemoryModel\bin\Debug\net5.0\MemoryModel.runtimeconfig.json
+C:\Users\iFran\Desktop\General\MemoryModel\MemoryModel\MemoryModel\bin\Debug\net5.0\MemoryModel.runtimeconfig.dev.json
+C:\Users\iFran\Desktop\General\MemoryModel\MemoryModel\MemoryModel\bin\Debug\net5.0\MemoryModel.dll
+C:\Users\iFran\Desktop\General\MemoryModel\MemoryModel\MemoryModel\bin\Debug\net5.0\ref\MemoryModel.dll
+C:\Users\iFran\Desktop\General\MemoryModel\MemoryModel\MemoryModel\bin\Debug\net5.0\MemoryModel.pdb
+C:\Users\iFran\Desktop\General\MemoryModel\MemoryModel\MemoryModel\obj\Debug\net5.0\MemoryModel.dll
+C:\Users\iFran\Desktop\General\MemoryModel\MemoryModel\MemoryModel\obj\Debug\net5.0\ref\MemoryModel.dll
+C:\Users\iFran\Desktop\General\MemoryModel\MemoryModel\MemoryModel\obj\Debug\net5.0\MemoryModel.pdb
+C:\Users\iFran\Desktop\General\MemoryModel\MemoryModel\MemoryModel\obj\Debug\net5.0\MemoryModel.genruntimeconfig.cache

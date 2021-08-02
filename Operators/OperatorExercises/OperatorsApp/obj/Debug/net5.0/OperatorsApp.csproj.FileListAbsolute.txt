@@ -1,0 +1,16 @@
+C:\Users\iFran\Desktop\General\AfterWindowsReinstall\OperatorExercises\OperatorsApp\bin\Debug\net5.0\OperatorsApp.exe
+C:\Users\iFran\Desktop\General\AfterWindowsReinstall\OperatorExercises\OperatorsApp\bin\Debug\net5.0\OperatorsApp.deps.json
+C:\Users\iFran\Desktop\General\AfterWindowsReinstall\OperatorExercises\OperatorsApp\bin\Debug\net5.0\OperatorsApp.runtimeconfig.json
+C:\Users\iFran\Desktop\General\AfterWindowsReinstall\OperatorExercises\OperatorsApp\bin\Debug\net5.0\OperatorsApp.runtimeconfig.dev.json
+C:\Users\iFran\Desktop\General\AfterWindowsReinstall\OperatorExercises\OperatorsApp\bin\Debug\net5.0\OperatorsApp.dll
+C:\Users\iFran\Desktop\General\AfterWindowsReinstall\OperatorExercises\OperatorsApp\bin\Debug\net5.0\ref\OperatorsApp.dll
+C:\Users\iFran\Desktop\General\AfterWindowsReinstall\OperatorExercises\OperatorsApp\bin\Debug\net5.0\OperatorsApp.pdb
+C:\Users\iFran\Desktop\General\AfterWindowsReinstall\OperatorExercises\OperatorsApp\obj\Debug\net5.0\OperatorsApp.csproj.AssemblyReference.cache
+C:\Users\iFran\Desktop\General\AfterWindowsReinstall\OperatorExercises\OperatorsApp\obj\Debug\net5.0\OperatorsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iFran\Desktop\General\AfterWindowsReinstall\OperatorExercises\OperatorsApp\obj\Debug\net5.0\OperatorsApp.AssemblyInfoInputs.cache
+C:\Users\iFran\Desktop\General\AfterWindowsReinstall\OperatorExercises\OperatorsApp\obj\Debug\net5.0\OperatorsApp.AssemblyInfo.cs
+C:\Users\iFran\Desktop\General\AfterWindowsReinstall\OperatorExercises\OperatorsApp\obj\Debug\net5.0\OperatorsApp.csproj.CoreCompileInputs.cache
+C:\Users\iFran\Desktop\General\AfterWindowsReinstall\OperatorExercises\OperatorsApp\obj\Debug\net5.0\OperatorsApp.dll
+C:\Users\iFran\Desktop\General\AfterWindowsReinstall\OperatorExercises\OperatorsApp\obj\Debug\net5.0\ref\OperatorsApp.dll
+C:\Users\iFran\Desktop\General\AfterWindowsReinstall\OperatorExercises\OperatorsApp\obj\Debug\net5.0\OperatorsApp.pdb
+C:\Users\iFran\Desktop\General\AfterWindowsReinstall\OperatorExercises\OperatorsApp\obj\Debug\net5.0\OperatorsApp.genruntimeconfig.cache
