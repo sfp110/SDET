@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Rw/pXEIZHhSz/iSOXhFR/ZujgFrLSpB7nMd48iDqLiJmk1GLUs/yuDjHm1TyUvlGRoK61FnQNDUhC/Sky+eO3g==",
+  "dgSpecHash": "0uZsLSFcI30CBJbkstjDBXIkaS6aOhBep7AZbZpJZrfp/pyIWYZAAVBHc28U0uraZd2X0JYP05otho3Z8TSJmw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\iFran\\Desktop\\General\\AfterWindowsReinstall\\OperatorExercises\\TestProject1\\TestProject1.csproj",
+  "projectFilePath": "C:\\Users\\iFran\\Desktop\\General\\SDET\\Operators\\OperatorExercises\\TestProject1\\TestProject1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\iFran\\.nuget\\packages\\coverlet.collector\\3.1.0\\coverlet.collector.3.1.0.nupkg.sha512",
     "C:\\Users\\iFran\\.nuget\\packages\\microsoft.codecoverage\\16.10.0\\microsoft.codecoverage.16.10.0.nupkg.sha512",

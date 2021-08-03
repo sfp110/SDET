@@ -4976,11 +4976,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\iFran\\Desktop\\General\\MoreAboutMethods\\MoreMethods\\MoreMethods.csproj",
+      "projectUniqueName": "C:\\Users\\iFran\\Desktop\\General\\SDET\\MoreAboutMethods\\MoreMethods\\MoreMethods.csproj",
       "projectName": "MoreMethods",
-      "projectPath": "C:\\Users\\iFran\\Desktop\\General\\MoreAboutMethods\\MoreMethods\\MoreMethods.csproj",
+      "projectPath": "C:\\Users\\iFran\\Desktop\\General\\SDET\\MoreAboutMethods\\MoreMethods\\MoreMethods.csproj",
       "packagesPath": "C:\\Users\\iFran\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\iFran\\Desktop\\General\\MoreAboutMethods\\MoreMethods\\obj\\",
+      "outputPath": "C:\\Users\\iFran\\Desktop\\General\\SDET\\MoreAboutMethods\\MoreMethods\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -5003,8 +5003,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\iFran\\Desktop\\General\\MoreAboutMethods\\Methods_Testing\\Methods_Testing.csproj": {
-              "projectPath": "C:\\Users\\iFran\\Desktop\\General\\MoreAboutMethods\\Methods_Testing\\Methods_Testing.csproj"
+            "C:\\Users\\iFran\\Desktop\\General\\SDET\\MoreAboutMethods\\Methods_Testing\\Methods_Testing.csproj": {
+              "projectPath": "C:\\Users\\iFran\\Desktop\\General\\SDET\\MoreAboutMethods\\Methods_Testing\\Methods_Testing.csproj"
             }
           }
         }

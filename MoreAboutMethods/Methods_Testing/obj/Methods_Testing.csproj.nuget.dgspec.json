@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\iFran\\Desktop\\General\\MoreAboutMethods\\Methods_Testing\\Methods_Testing.csproj": {}
+    "C:\\Users\\iFran\\Desktop\\General\\SDET\\MoreAboutMethods\\Methods_Testing\\Methods_Testing.csproj": {}
   },
   "projects": {
-    "C:\\Users\\iFran\\Desktop\\General\\MoreAboutMethods\\Methods_Testing\\Methods_Testing.csproj": {
+    "C:\\Users\\iFran\\Desktop\\General\\SDET\\MoreAboutMethods\\Methods_Testing\\Methods_Testing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\iFran\\Desktop\\General\\MoreAboutMethods\\Methods_Testing\\Methods_Testing.csproj",
+        "projectUniqueName": "C:\\Users\\iFran\\Desktop\\General\\SDET\\MoreAboutMethods\\Methods_Testing\\Methods_Testing.csproj",
         "projectName": "Methods_Testing",
-        "projectPath": "C:\\Users\\iFran\\Desktop\\General\\MoreAboutMethods\\Methods_Testing\\Methods_Testing.csproj",
+        "projectPath": "C:\\Users\\iFran\\Desktop\\General\\SDET\\MoreAboutMethods\\Methods_Testing\\Methods_Testing.csproj",
         "packagesPath": "C:\\Users\\iFran\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\iFran\\Desktop\\General\\MoreAboutMethods\\Methods_Testing\\obj\\",
+        "outputPath": "C:\\Users\\iFran\\Desktop\\General\\SDET\\MoreAboutMethods\\Methods_Testing\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

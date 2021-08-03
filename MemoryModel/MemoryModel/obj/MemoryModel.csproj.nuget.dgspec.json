@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\iFran\\Desktop\\General\\MemoryModel\\MemoryModel\\MemoryModel\\MemoryModel.csproj": {}
+    "C:\\Users\\iFran\\Desktop\\General\\SDET\\MemoryModel\\MemoryModel\\MemoryModel.csproj": {}
   },
   "projects": {
-    "C:\\Users\\iFran\\Desktop\\General\\MemoryModel\\MemoryModel\\MemoryModel\\MemoryModel.csproj": {
+    "C:\\Users\\iFran\\Desktop\\General\\SDET\\MemoryModel\\MemoryModel\\MemoryModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\iFran\\Desktop\\General\\MemoryModel\\MemoryModel\\MemoryModel\\MemoryModel.csproj",
+        "projectUniqueName": "C:\\Users\\iFran\\Desktop\\General\\SDET\\MemoryModel\\MemoryModel\\MemoryModel.csproj",
         "projectName": "MemoryModel",
-        "projectPath": "C:\\Users\\iFran\\Desktop\\General\\MemoryModel\\MemoryModel\\MemoryModel\\MemoryModel.csproj",
+        "projectPath": "C:\\Users\\iFran\\Desktop\\General\\SDET\\MemoryModel\\MemoryModel\\MemoryModel.csproj",
         "packagesPath": "C:\\Users\\iFran\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\iFran\\Desktop\\General\\MemoryModel\\MemoryModel\\MemoryModel\\obj\\",
+        "outputPath": "C:\\Users\\iFran\\Desktop\\General\\SDET\\MemoryModel\\MemoryModel\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HrXR2UL0ZD8LBbUwY3LYt97Ckt341I+djPIU2QuGzIVs7LLU1x/HXVXavJk/ExuDO/4IYFdpbH8yFYd20E+NCw==",
+  "dgSpecHash": "MiK0uw+f4n3uazs6gdC/VL/Hnwm2PW0tUQfvnDXL6gp7wXvudKrVfV2EJag6aJzFagxK13YhtGI5N8IHvA+BYw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\iFran\\Desktop\\Homework\\MoreTypesLabs\\Labs\\MoreTypes_Lab_Starter\\MoreTypes_Lab\\MoreTypes_Tests\\MoreTypes_Tests.csproj",
+  "projectFilePath": "C:\\Users\\iFran\\Desktop\\General\\SDET\\MoreTypesLabs\\Labs\\MoreTypes_Lab_Starter\\MoreTypes_Lab\\MoreTypes_Tests\\MoreTypes_Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\iFran\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
     "C:\\Users\\iFran\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

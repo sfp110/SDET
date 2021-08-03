@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\iFran\\Desktop\\General\\MoreDataTypesApp\\MoreDataTypesApp\\MoreDataTypesApp.csproj",
+      "projectUniqueName": "C:\\Users\\iFran\\Desktop\\General\\SDET\\MoreDataTypesApp\\MoreDataTypesApp\\MoreDataTypesApp.csproj",
       "projectName": "MoreDataTypesApp",
-      "projectPath": "C:\\Users\\iFran\\Desktop\\General\\MoreDataTypesApp\\MoreDataTypesApp\\MoreDataTypesApp.csproj",
+      "projectPath": "C:\\Users\\iFran\\Desktop\\General\\SDET\\MoreDataTypesApp\\MoreDataTypesApp\\MoreDataTypesApp.csproj",
       "packagesPath": "C:\\Users\\iFran\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\iFran\\Desktop\\General\\MoreDataTypesApp\\MoreDataTypesApp\\obj\\",
+      "outputPath": "C:\\Users\\iFran\\Desktop\\General\\SDET\\MoreDataTypesApp\\MoreDataTypesApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

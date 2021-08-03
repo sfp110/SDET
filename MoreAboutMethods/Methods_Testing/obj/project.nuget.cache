@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n8lcdkAvNiDdiqY7EEFYTJ39zMCQjwid1q8ZScsQ0nfVuQFc9L/Mz0mfQiJ7l1RojP6ehlK48ssuA/pf5LG9ww==",
+  "dgSpecHash": "NNj9RKSkyNgeZPHp/me0cNHt0YdH1fQBE/0njP69LBEI8TKzgbfbIxmhs5SdbDjMPuwFwy2R5D2VOV7UHcvXjg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\iFran\\Desktop\\General\\MoreAboutMethods\\Methods_Testing\\Methods_Testing.csproj",
+  "projectFilePath": "C:\\Users\\iFran\\Desktop\\General\\SDET\\MoreAboutMethods\\Methods_Testing\\Methods_Testing.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\iFran\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\iFran\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",

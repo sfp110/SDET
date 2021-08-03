@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GWzj8kVykMtwd1bSqz7ETap0EG6Fm31k68lA8EItvxUgVN3QecOo/zl6Bv5TnAhjiup7YBcWcvyILJB8xUxvqQ==",
+  "dgSpecHash": "V+FRSeYLKOuFG+2bktJef0EhbLXXX2XQa+NiXX4FFhk6x0CEZ2aUdEtas3GbBQmOTYk0I4asnbeKwxjEp5Hl3A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\iFran\\Desktop\\General\\Methods_Lab_Starter\\Methods_Lab_Starter\\Methods_Tests\\Methods_Tests.csproj",
+  "projectFilePath": "C:\\Users\\iFran\\Desktop\\General\\SDET\\Methods_Lab_Starter\\Methods_Lab_Starter\\Methods_Tests\\Methods_Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\iFran\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
     "C:\\Users\\iFran\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
