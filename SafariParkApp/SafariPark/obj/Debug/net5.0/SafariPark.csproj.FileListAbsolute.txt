@@ -1,0 +1,16 @@
+C:\Users\iFran\Desktop\General\SDET\SafariParkApp\SafariPark\obj\Debug\net5.0\SafariPark.csproj.AssemblyReference.cache
+C:\Users\iFran\Desktop\General\SDET\SafariParkApp\SafariPark\obj\Debug\net5.0\SafariPark.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iFran\Desktop\General\SDET\SafariParkApp\SafariPark\obj\Debug\net5.0\SafariPark.AssemblyInfoInputs.cache
+C:\Users\iFran\Desktop\General\SDET\SafariParkApp\SafariPark\obj\Debug\net5.0\SafariPark.AssemblyInfo.cs
+C:\Users\iFran\Desktop\General\SDET\SafariParkApp\SafariPark\obj\Debug\net5.0\SafariPark.csproj.CoreCompileInputs.cache
+C:\Users\iFran\Desktop\General\SDET\SafariParkApp\SafariPark\bin\Debug\net5.0\SafariPark.exe
+C:\Users\iFran\Desktop\General\SDET\SafariParkApp\SafariPark\bin\Debug\net5.0\SafariPark.deps.json
+C:\Users\iFran\Desktop\General\SDET\SafariParkApp\SafariPark\bin\Debug\net5.0\SafariPark.runtimeconfig.json
+C:\Users\iFran\Desktop\General\SDET\SafariParkApp\SafariPark\bin\Debug\net5.0\SafariPark.runtimeconfig.dev.json
+C:\Users\iFran\Desktop\General\SDET\SafariParkApp\SafariPark\bin\Debug\net5.0\SafariPark.dll
+C:\Users\iFran\Desktop\General\SDET\SafariParkApp\SafariPark\bin\Debug\net5.0\ref\SafariPark.dll
+C:\Users\iFran\Desktop\General\SDET\SafariParkApp\SafariPark\bin\Debug\net5.0\SafariPark.pdb
+C:\Users\iFran\Desktop\General\SDET\SafariParkApp\SafariPark\obj\Debug\net5.0\SafariPark.dll
+C:\Users\iFran\Desktop\General\SDET\SafariParkApp\SafariPark\obj\Debug\net5.0\ref\SafariPark.dll
+C:\Users\iFran\Desktop\General\SDET\SafariParkApp\SafariPark\obj\Debug\net5.0\SafariPark.pdb
+C:\Users\iFran\Desktop\General\SDET\SafariParkApp\SafariPark\obj\Debug\net5.0\SafariPark.genruntimeconfig.cache
