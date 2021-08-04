@@ -6,6 +6,26 @@ namespace SafariPark
     {
         static void Main(string[] args)
         {
+            Hunter h = new Hunter("Marion", "Jones", "Canon") { Age = 25 };
+            //Console.WriteLine($"{nHunter.FullName}, of {nHunter.Age}, took his photo with a {nHunter.CameraName()} camera. \n");
+            Console.WriteLine($"{h.FullName}, of {h.Age}, took his photo with a {h.Camera} camera. \n");
+
+
+            var h2 = new Hunter("Sergio", "Pessegueiro", "Leica") { Age = 22 };
+
+            Console.WriteLine($"h Equals h2? {h.Equals(h2)}");
+            Console.WriteLine($"h HashCode:  {h.GetHashCode()}");
+            Console.WriteLine($"h Type:      {h.GetType()}");
+            Console.WriteLine($"h ToString:  {h.ToString()}");
+
+            Console.WriteLine($" \n h: {h} \n");
+
+
+
+
+            //----------------------------------------------------------
+
+
             Person martin = new Person("Martin", "Beard", 21);
             Console.WriteLine(martin.GetFullName());
 

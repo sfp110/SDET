@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.31515.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SafariPark", "SafariPark.csproj", "{B441C3F4-AD99-403C-BA87-943540515625}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SafariPark_UnitTests", "..\SafariPark_UnitTests\SafariPark_UnitTests.csproj", "{092FB765-57A3-41D6-AA63-BD45B81478BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SafariPark_UnitTests", "..\SafariPark_UnitTests\SafariPark_UnitTests.csproj", "{092FB765-57A3-41D6-AA63-BD45B81478BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vehicle_Tests", "..\Vehicle_Tests\Vehicle_Tests.csproj", "{EDA62396-8114-4F46-94B4-8DC3C3ACDED6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{092FB765-57A3-41D6-AA63-BD45B81478BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{092FB765-57A3-41D6-AA63-BD45B81478BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{092FB765-57A3-41D6-AA63-BD45B81478BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDA62396-8114-4F46-94B4-8DC3C3ACDED6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDA62396-8114-4F46-94B4-8DC3C3ACDED6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDA62396-8114-4F46-94B4-8DC3C3ACDED6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDA62396-8114-4F46-94B4-8DC3C3ACDED6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
