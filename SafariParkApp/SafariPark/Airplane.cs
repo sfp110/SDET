@@ -33,14 +33,14 @@ namespace SafariPark
             Altitude -= distance;
         }
 
-        public string Move()
+        public override string Move()
         {
             base.Move();
             //Position += Speed;
             return $"Moving along at an altitude of {Altitude} meters.";
         }
 
-        public string Move(int times) //3
+        public override string Move(int times) //3
         {
             //Position += times * Speed;
             base.Move(times);

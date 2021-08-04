@@ -41,18 +41,18 @@ namespace SafariPark
             }
         }
 
-        public int Position { get; protected set; }
+        public int Position { get; private set; }
 
         //
         public int Speed { get; init; }
 
-        public string Move()
+        public virtual string Move()
         {
             Position += Speed;
             return "Moving along";
         }
 
-        public string Move(int times)
+        public virtual string Move(int times)
         {
             Position += times * Speed;
             return $"Moving along {times} times";
