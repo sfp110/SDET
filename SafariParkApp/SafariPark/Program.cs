@@ -20,8 +20,17 @@ namespace SafariPark
 
             Console.WriteLine($" \n h: {h} \n");
 
+            //----------------------------------------------------------
 
+            Airplane a = new Airplane(200, 100, "JetsRUs") { NumPassengers = 150};
 
+            a.Ascend(500);
+            Console.WriteLine(a.Move(3));
+            Console.WriteLine(a);
+            a.Descend(200);
+            Console.WriteLine(a.Move());
+            a.Move();
+            Console.WriteLine(a + "\n");
 
             //----------------------------------------------------------
 

@@ -8,7 +8,7 @@ namespace SafariPark
 {
     public class Vehicle
     {
-        private int _capacity;
+        protected int _capacity;
         private int _numPassengers;
 
         public Vehicle()
@@ -30,7 +30,7 @@ namespace SafariPark
             }
             set
             {
-                if (_capacity - _numPassengers >= 0 && _numPassengers > 0)
+                if (_capacity - _numPassengers >= 0 && _numPassengers >= 0)
                 {
                     _numPassengers = value;
                 }
@@ -41,22 +41,24 @@ namespace SafariPark
             }
         }
 
-        public int Position { get; private set; }
+        public int Position { get; protected set; }
 
         //
         public int Speed { get; init; }
 
         public string Move()
         {
-            Position = Speed;
+            Position += Speed;
             return "Moving along";
         }
 
         public string Move(int times)
         {
-            Position = times * Speed;
+            Position += times * Speed;
             return $"Moving along {times} times";
         }
+
+
         //==
         //struct Speed
         //{
