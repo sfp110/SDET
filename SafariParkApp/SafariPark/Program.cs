@@ -38,11 +38,11 @@ namespace SafariPark
             Person martin = new Person("Martin", "Beard", 21);
             Console.WriteLine(martin.GetFullName());
 
-            Person cathy = new Person("Cathy", "French", 35);
+            var cathy = new Person("Cathy", "French", 35);
             Console.WriteLine(cathy.GetFullName() + " of " + cathy.Age);
 
-            Person Sergio = new Person("Sergio", "Pessegueiro") { Age = 22 };
-            Console.WriteLine(Sergio.GetFullName() + " of " + Sergio.Age);
+            var sergio = new Person("Sergio", "Pessegueiro") { Age = 22 };
+            Console.WriteLine(sergio.GetFullName() + " of " + sergio.Age);
 
             var list = new ShoppingList()
             {
@@ -52,14 +52,14 @@ namespace SafariPark
             };
 
             Point3D p1 = new Point3D(3, 6, 2);
-            var p2 = new Point3D();
+            //var p2 = new Point3D();
             //Point3D p3;
-            //Point3D p4 = new Point3D(1, 7);
+            //Point3D p4 = new Point3D(1, 7W);
 
 
-            Person john = new Person("John", "Doe") { Age = 20 };
+            var john = new Person("John", "Doe") { Age = 20 };
 
-            Point3D pt = new Point3D(5, 1000, 2);
+            var pt = new Point3D(5, 1000, 2);
 
             DemoMethod(pt, john);
         }

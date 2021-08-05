@@ -24,5 +24,13 @@ namespace SafariPark
             Assert.AreEqual(40, v.Position);
             Assert.AreEqual("Moving along", result);
         }
+
+        [Test]
+        public void TestNumberOfPeopleOutOfRange()
+        {
+            var newAirplane = new Airplane(200, 360, "EasyJet");
+
+            //Assert.That(() => newAirplane.NumPassengers, Throws.ArgumentOutOfRangeException);
+        }
     }
 }

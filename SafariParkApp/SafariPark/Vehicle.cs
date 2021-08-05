@@ -8,7 +8,7 @@ namespace SafariPark
 {
     public class Vehicle
     {
-        protected int _capacity;
+        private int Capacity;
         private int _numPassengers;
 
         public Vehicle()
@@ -18,19 +18,16 @@ namespace SafariPark
 
         public Vehicle(int capacity, int speed = 10)
         {
-            _capacity = capacity;
+            Capacity = capacity;
             Speed = speed;
         }
 
         public int NumPassengers
         {
-            get
+            get => _numPassengers;
+            init
             {
-                return _numPassengers;
-            }
-            set
-            {
-                if (_capacity - _numPassengers >= 0 && _numPassengers >= 0)
+                if (Capacity - _numPassengers >= 0 && _numPassengers >= 0)
                 {
                     _numPassengers = value;
                 }
@@ -56,6 +53,12 @@ namespace SafariPark
         {
             Position += times * Speed;
             return $"Moving along {times} times";
+        }
+
+        public override string ToString()
+        {
+            return base.ToString() +
+                   $" capacity: {Capacity} passengers: {_numPassengers} speed: {Speed} position {Position}";
         }
 
 
