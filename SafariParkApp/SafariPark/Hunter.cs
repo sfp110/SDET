@@ -5,31 +5,32 @@ using System.Text;
 
 namespace SafariPark
 {
-    public class Hunter : Person
+    public class Hunter : Person, IShootable
     {
-        private string _camera;
+        public IShootable Shooter { get; set; }
 
         public override string ToString()
         {
-            return $"{base.ToString()} Camera: {_camera}";
+            return $"{base.ToString()} Camera: {Shooter}";
         }
 
         //The constructor can't run if the base Person doesn't send in the required elements
-        public Hunter(string firstName, string lastName = "", string camera = "") : base(firstName, lastName)
+        public Hunter(string firstName, string lastName, IShootable shooter) : base(firstName, lastName)
         {
-            this._camera = camera;
+            Shooter = shooter;
         }
 
-        public string Shoot()
+        public virtual string Shoot()
         {
-            return $"{GetFullName()} has taken a photo with their {_camera}";
+            return $"{GetFullName()}: {Shooter.Shoot()}";
+            //return $"{GetFullName()} has taken a photo with their {Shooter}";
         }
         
         public string CameraName()
         {
-            return $"{_camera}";
+            return $"{Shooter}";
         }
 
-        public string Camera => _camera;
+        //public string Camera => Shooter;
     }
 }

@@ -5,7 +5,7 @@ using System.Text;
 
 namespace SafariPark
 {
-    public class Person
+    public class Person : IMovable
     {
         //private readonly string _firstName;
         //private string _lastName;
@@ -18,23 +18,20 @@ namespace SafariPark
         public string FirstName { get; private set; }
         public string LastName { get; private set; }
 
-        private int age;
+        private int _age;
         //public string FullName => _firstName + " " + _lastName;
 
         //public int Age { get; set; }
         public int Age
         {
-            get
-            {
-                return age;
-            }
+            get => _age;
             set
             {
                 if(value<0)
                 {
                     throw new ArgumentOutOfRangeException();
                 }
-                age = value;
+                _age = value;
             }
         }
 
@@ -54,9 +51,18 @@ namespace SafariPark
             //return $"{_firstName} {_lastName}";
         }
 
-        public string FullName
+        public string FullName => $"{FirstName} {LastName}";
+
+        public string Move()
         {
-            get => $"{FirstName} {LastName}";
+            return $"Walking along";
+            //throw new NotImplementedException();
+        }
+
+        public string Move(int times)
+        {
+            return $"Walking along {times} times";
+            //throw new NotImplementedException();
         }
     }
 }
