@@ -25,11 +25,6 @@ namespace SafariPark
             return $"{GetFullName()}: {Shooter.Shoot()}";
             //return $"{GetFullName()} has taken a photo with their {Shooter}";
         }
-        
-        public string CameraName()
-        {
-            return $"{Shooter}";
-        }
 
         //public string Camera => Shooter;
     }

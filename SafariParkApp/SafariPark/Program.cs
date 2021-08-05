@@ -33,9 +33,9 @@ namespace SafariPark
             Console.WriteLine(nish.Shoot());
             nish.Shooter = pistol;
             Console.WriteLine(nish.Shoot());
-
-
-           
+            
+            //Console.WriteLine(nish.CameraName()); // SafariPark.WasterPistol
+            
 
             //var cannon = new Camera("Cannon");
             //var yolanda = new Person("Yolanda", "Young");
@@ -57,6 +57,7 @@ namespace SafariPark
             //{
             //    Console.WriteLine(gameObject);
             //}
+
             #endregion
 
             #region ImplementingIMovableInterface
@@ -76,6 +77,7 @@ namespace SafariPark
             //    Console.WriteLine(gameObject2.Move(20));
             //}
             //Console.WriteLine("\n");
+
             #endregion
 
             #region Old Exercises
