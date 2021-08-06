@@ -8,63 +8,218 @@ namespace SafariPark
         static void Main(string[] args)
         {
 
-            //List<Weapon> weapons = new List<Weapon>()
-            //    {
-            //    new LaserGun("Banana"),
-            //    new WasterPistol("Umbrella"),
-            //    };
+            //System.Collections.Generic is a namespace
+            //What can we do with regards to handling types ? classes/strucs
 
-            //LaserGun firstGun = new LaserGun("Nerf");
-            //weapons.Add(firstGun);
+            var helen = new Person("Helen", "Troy") { Age = 42 };
+            var will = new Person("William", "Shakespeare") { Age = 467 };
 
-            //foreach (var gun in weapons)
-            //{
-            //    Console.WriteLine(gun.Shoot());
-            //}
+            //DICTIONARY
 
-            Camera pentax = new Camera("Pentax");
-            WasterPistol pistol = new WasterPistol("Supersoaker");
-            LaserGun laserGun = new LaserGun("Acme");
-            Hunter nish = new Hunter("Nish", "Mandal", pentax);
-            Console.WriteLine(nish.Shoot());
-            nish.Shooter = pistol;
-            Console.WriteLine(nish.Shoot());
-            nish.Shooter = laserGun;
-            Console.WriteLine(nish.Shoot());
-            nish.Shooter = pistol;
-            Console.WriteLine(nish.Shoot());
-
-            Console.WriteLine("\n");
-
-            var bobOne = new Person("Bob", "Builder") { Age = 35 };
-            var bobTwo = bobOne;
-            var areSame = bobOne.Equals(bobTwo);
-
-            var bobThree = new Person("Bob", "Builder") { Age = 35 };
-            var areSameOneTree = bobOne.Equals(bobThree);
-
-
-            List<Person> personList = new List<Person>
+            var personDict = new Dictionary<string, Person>
             {
-                new Person("Cath", "Cookson"),
-                new Person("Bob", "Builder"){Age=35},
-                new Person("Dan", "Dare"),
-                new Person("Amy", "Anderws"){Age = 32}
+                { "helen", helen },
+                { "sherlock", new Person("Sherlock", "Holmes"){ Age = 40 } }
             };
 
-            personList.Sort();
+            var p = personDict["sherlock"];
+            personDict.Add("will", will);
 
-            var hasBob = personList.Contains(bobOne);
+            string input = "The cat in the hat comes back";
+            input = input.Trim().ToLower();
 
+            var countDict = new Dictionary<char, int>();
+
+            foreach( var x in input)
+            {
+                if(countDict.ContainsKey(x))
+                {
+                    countDict[x]++;
+                }
+                else
+                {
+                    countDict.Add(x, 1);
+                }
+            }
+
+            Console.WriteLine("Dictionary problem");
+
+            foreach(var entry in countDict)
+            {
+                Console.WriteLine(entry);
+            }
+
+            Console.WriteLine("\nKeys");
+
+            foreach (var key in countDict.Keys)
+            {
+                Console.Write(key + " ");
+            }
+            Console.WriteLine("\nValues");
+            foreach (var value in countDict.Values)
+            {
+                Console.Write(value + " ");
+            }
+
+            #region LISTS
+
+            //Console.WriteLine("List of Names");
+
+            //List<Person> thePeoeple = new List<Person> { helen, will };
+
+            //foreach (var item in thePeoeple)
+            //{
+            //    Console.WriteLine(item);
+            //}
+
+            //List<int> myList = new List<int> { 5, 4, 3, 9, 0};
+
+            //myList.Add(8);
+
+            //myList.Sort();
+
+            //myList.RemoveAt(1);
+            //myList.RemoveAt(1);
+
+            //int myListVal = myList[0];
+            //myList.RemoveAt(0);
+            //myList.Insert(1, myListVal);
+
+            //myList.Reverse();
+            //myList.Remove(9);
+
+            //foreach(var item in myList)
+            //{
+            //    Console.WriteLine(item);
+            //}
+            #endregion
+
+            #region QUEUE
+            //QUEUE
+
+            var myQueue = new Queue<Person>();
+
+            myQueue.Enqueue(helen);
+            myQueue.Enqueue(will);
+            myQueue.Enqueue(new Person("Cathy", "Lovegood") { Age = 18 });
+
+            foreach (var person in myQueue)
+            {
+                Console.WriteLine(person);
+            }
+
+            var first = myQueue.Peek();
+
+            var howMany = myQueue.Count;
+
+            var serve = myQueue.Dequeue();
+
+            #endregion
+
+            #region STACK
+            //STACK
+            int[] original = new int[] { 1, 2, 3, 4, 5 };
+            int[] reverserd = new int[original.Length];
+
+            var stack = new Stack<int>();
+
+            foreach (var n in original)
+            {
+                stack.Push(n);
+                //Push on top of the stack
+            }
+            Console.WriteLine("\nStack\n");
+            foreach (var s in stack)
+            {
+                Console.WriteLine(s);
+            }
+
+            for (int i = 0; i < original.Length; i++)
+            {
+                reverserd[i] = stack.Pop();
+                //Remove from the stack
+            }
+            #endregion
+
+            #region HASHET
+            //HASHET
+
+            var peopleSet = new HashSet<Person>
+            { helen,
+            new Person("Jasmine"),
+            new Person("Andreia")
+            };
+
+            Console.WriteLine("HashSet");
+            foreach (var entry in peopleSet)
+            {
+                Console.WriteLine(entry);
+            }
+
+            var successMartin = peopleSet.Add(new Person("Martin", "Beard") { Age = 2131 });
+            var successHelen = peopleSet.Add(new Person("Helen", "Troy") { Age = 23 });
+
+            var morePeople = new HashSet<Person> { new Person("Cathy") { Age = 23 }, new Person("Jasmine") };
+
+            peopleSet.IntersectWith(morePeople);
+            //removes everything from peopleSet that doesn't match with morePeople
+
+
+            var vehicleSet = new HashSet<Vehicle>
+            {
+                new Vehicle{NumPassengers = 3, Speed = 2},
+                new Vehicle{Speed = 100}
+            };
+
+            var success = vehicleSet.Add(new Vehicle { Speed = 100 });
+
+            #endregion
 
             //Console.WriteLine(nish.CameraName()); // SafariPark.WasterPistol
-
 
             //var cannon = new Camera("Cannon");
             //var yolanda = new Person("Yolanda", "Young");
             //SpartaWrite(yolanda);
             //var martinHunter = new Hunter("Martin", "Beard", cannon) {Age = 43};
             //SpartaWrite(martinHunter);
+
+            #region HunterWithDifferentGuns
+
+            //Camera pentax = new Camera("Pentax");
+            //WasterPistol pistol = new WasterPistol("Supersoaker");
+            //LaserGun laserGun = new LaserGun("Acme");
+            //Hunter nish = new Hunter("Nish", "Mandal", pentax);
+            //Console.WriteLine(nish.Shoot());
+            //nish.Shooter = pistol;
+            //Console.WriteLine(nish.Shoot());
+            //nish.Shooter = laserGun;
+            //Console.WriteLine(nish.Shoot());
+            //nish.Shooter = pistol;
+            //Console.WriteLine(nish.Shoot());
+
+            //Console.WriteLine("\n");
+
+            //var bobOne = new Person("Bob", "Builder") { Age = 35 };
+            //var bobTwo = bobOne;
+            //var areSame = bobOne.Equals(bobTwo);
+
+            //var bobThree = new Person("Bob", "Builder") { Age = 35 };
+            //var areSameOneTree = bobOne.Equals(bobThree);
+
+
+            //List<Person> personList = new List<Person>
+            //{
+            //    new Person("Cath", "Cookson"),
+            //    new Person("Bob", "Builder"){Age=35},
+            //    new Person("Dan", "Dare"),
+            //    new Person("Amy", "Anderws"){Age = 32}
+            //};
+
+            //personList.Sort();
+
+            //var hasBob = personList.Contains(bobOne);
+
+            #endregion
 
             #region ListOfObjects
 
@@ -198,7 +353,4 @@ namespace SafariPark
             this.z = z;
         }
     }
-    
-    
-
-}
+ }

@@ -22,7 +22,7 @@ namespace SafariPark
             {
                 return _firstName;
             }
-            private set
+            set
             {
                 _firstName = value;
             }
@@ -34,7 +34,7 @@ namespace SafariPark
                 return _lastName;
             }
 
-            private set
+            set
             {
                 _lastName = value;
             }
