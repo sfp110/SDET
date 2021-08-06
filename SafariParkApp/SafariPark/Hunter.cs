@@ -7,6 +7,7 @@ namespace SafariPark
 {
     public class Hunter : Person, IShootable
     {
+        private string _camera;
         public IShootable Shooter { get; set; }
 
         public override string ToString()
@@ -18,6 +19,10 @@ namespace SafariPark
         public Hunter(string firstName, string lastName, IShootable shooter) : base(firstName, lastName)
         {
             Shooter = shooter;
+        }
+        public Hunter(string firstName, string lastName, string camera) : base(firstName, lastName)
+        {
+            _camera = camera;
         }
 
         public virtual string Shoot()
