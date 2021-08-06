@@ -46,5 +46,19 @@ namespace SafariPark_UnitTests
             Assert.AreEqual(subjectPoint3D.y, y);
             Assert.AreEqual(subjectPoint3D.z, 5);
         }
+
+
+        [Test]
+        public void CheckEqualityOfObjs()
+        {
+            Person John = new Person("nick", "nick") { Age = 23 };
+            Person JohnII = new Person("nick", "nick") { Age = 23 };
+
+            Person JohnIII = new Person("notNick", "notNick") { Age = 23 };
+
+            Assert.That(John, Is.EqualTo(JohnII));
+            Assert.That(John, Is.Not.EqualTo(JohnIII));
+
+        }
     }
 }

@@ -33,9 +33,32 @@ namespace SafariPark
             Console.WriteLine(nish.Shoot());
             nish.Shooter = pistol;
             Console.WriteLine(nish.Shoot());
-            
+
+            Console.WriteLine("\n");
+
+            var bobOne = new Person("Bob", "Builder") { Age = 35 };
+            var bobTwo = bobOne;
+            var areSame = bobOne.Equals(bobTwo);
+
+            var bobThree = new Person("Bob", "Builder") { Age = 35 };
+            var areSameOneTree = bobOne.Equals(bobThree);
+
+
+            List<Person> personList = new List<Person>
+            {
+                new Person("Cath", "Cookson"),
+                new Person("Bob", "Builder"){Age=35},
+                new Person("Dan", "Dare"),
+                new Person("Amy", "Anderws"){Age = 32}
+            };
+
+            personList.Sort();
+
+            var hasBob = personList.Contains(bobOne);
+
+
             //Console.WriteLine(nish.CameraName()); // SafariPark.WasterPistol
-            
+
 
             //var cannon = new Camera("Cannon");
             //var yolanda = new Person("Yolanda", "Young");
