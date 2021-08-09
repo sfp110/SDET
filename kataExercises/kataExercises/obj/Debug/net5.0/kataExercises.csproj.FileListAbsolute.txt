@@ -1,0 +1,16 @@
+C:\Users\iFran\Desktop\kataExercises\kataExercises\bin\Debug\net5.0\kataExercises.exe
+C:\Users\iFran\Desktop\kataExercises\kataExercises\bin\Debug\net5.0\kataExercises.deps.json
+C:\Users\iFran\Desktop\kataExercises\kataExercises\bin\Debug\net5.0\kataExercises.runtimeconfig.json
+C:\Users\iFran\Desktop\kataExercises\kataExercises\bin\Debug\net5.0\kataExercises.runtimeconfig.dev.json
+C:\Users\iFran\Desktop\kataExercises\kataExercises\bin\Debug\net5.0\kataExercises.dll
+C:\Users\iFran\Desktop\kataExercises\kataExercises\bin\Debug\net5.0\ref\kataExercises.dll
+C:\Users\iFran\Desktop\kataExercises\kataExercises\bin\Debug\net5.0\kataExercises.pdb
+C:\Users\iFran\Desktop\kataExercises\kataExercises\obj\Debug\net5.0\kataExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iFran\Desktop\kataExercises\kataExercises\obj\Debug\net5.0\kataExercises.AssemblyInfoInputs.cache
+C:\Users\iFran\Desktop\kataExercises\kataExercises\obj\Debug\net5.0\kataExercises.AssemblyInfo.cs
+C:\Users\iFran\Desktop\kataExercises\kataExercises\obj\Debug\net5.0\kataExercises.csproj.CoreCompileInputs.cache
+C:\Users\iFran\Desktop\kataExercises\kataExercises\obj\Debug\net5.0\kataExercises.dll
+C:\Users\iFran\Desktop\kataExercises\kataExercises\obj\Debug\net5.0\ref\kataExercises.dll
+C:\Users\iFran\Desktop\kataExercises\kataExercises\obj\Debug\net5.0\kataExercises.pdb
+C:\Users\iFran\Desktop\kataExercises\kataExercises\obj\Debug\net5.0\kataExercises.genruntimeconfig.cache
+C:\Users\iFran\Desktop\kataExercises\kataExercises\obj\Debug\net5.0\kataExercises.csproj.AssemblyReference.cache
