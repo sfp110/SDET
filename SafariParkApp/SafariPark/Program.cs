@@ -14,6 +14,7 @@ namespace SafariPark
             var helen = new Person("Helen", "Troy") { Age = 42 };
             var will = new Person("William", "Shakespeare") { Age = 467 };
 
+            #region DICTIONARY
             //DICTIONARY
 
             var personDict = new Dictionary<string, Person>
@@ -60,6 +61,8 @@ namespace SafariPark
             {
                 Console.Write(value + " ");
             }
+
+            #endregion
 
             #region LISTS
 
@@ -185,17 +188,17 @@ namespace SafariPark
 
             #region HunterWithDifferentGuns
 
-            //Camera pentax = new Camera("Pentax");
-            //WasterPistol pistol = new WasterPistol("Supersoaker");
-            //LaserGun laserGun = new LaserGun("Acme");
-            //Hunter nish = new Hunter("Nish", "Mandal", pentax);
-            //Console.WriteLine(nish.Shoot());
-            //nish.Shooter = pistol;
-            //Console.WriteLine(nish.Shoot());
-            //nish.Shooter = laserGun;
-            //Console.WriteLine(nish.Shoot());
-            //nish.Shooter = pistol;
-            //Console.WriteLine(nish.Shoot());
+            Camera pentax = new Camera("Pentax");
+            WasterPistol pistol = new WasterPistol("Supersoaker");
+            LaserGun laserGun = new LaserGun("Acme");
+            Hunter nish = new Hunter("Nish", "Mandal", pentax);
+            Console.WriteLine(nish.Shoot());
+            nish.Shooter = pistol;
+            Console.WriteLine(nish.Shoot());
+            nish.Shooter = laserGun;
+            Console.WriteLine(nish.Shoot());
+            nish.Shooter = pistol;
+            Console.WriteLine(nish.Shoot());
 
             //Console.WriteLine("\n");
 
